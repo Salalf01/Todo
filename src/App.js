@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import './App.css';
 import firebase from './Firebase';
-import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth"
+//import StyledFirebaseAuth from "react-firebaseui/StyledFirebaseAuth"
 import moment from 'moment';
 
 
